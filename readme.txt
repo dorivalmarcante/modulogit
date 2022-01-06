@@ -8,3 +8,4 @@ git status - ver o status das modificações (arquivos modificados e adicionados
 git add -A - adicione todos os arquivos modificados e inseridos no git
 git add nomedoarquivo - adiciona um arquivo especifico
 git commit -m "Descrição" - Cria uma nova versão dos arquivos modificados
+git commit -am "Descrição" - adiciona os arquivos novos e modificados e Cria uma nova versão dos arquivos modificados
