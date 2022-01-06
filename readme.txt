@@ -18,3 +18,6 @@ o comando de reset é
 git reset --soft e a hash do commit
 git reset --mixed e a hash do commit
 git reset --hard e a hash do commit
+
+git branch nomedobranch - cria um novo branch
+git checkout nomedobranch - muda para o branch escolhido
