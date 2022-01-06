@@ -21,3 +21,5 @@ git reset --hard e a hash do commit
 
 git branch nomedobranch - cria um novo branch
 git checkout nomedobranch - muda para o branch escolhido
+
+git diff - mostra a diferença entre o ultimo commit e as ultimas modificações sem commitar
